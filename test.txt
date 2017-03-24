@@ -1,1 +1,0 @@
-LICENSE for Git testing
